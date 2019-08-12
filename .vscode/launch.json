@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - try_03hashmap",
             "request": "launch",
             "mainClass": "try_03hashmap",
@@ -13,13 +14,22 @@
             "request": "launch",
             "mainClass": "try_arraylist",
             "projectName": "java_72e8cc1b"
+=======
+            "name": "CodeLens (Launch) - try_hashmap",
+            "request": "launch",
+            "mainClass": "try_hashmap"
+>>>>>>> 23fbb6f47b4e55846863cdfd3d853181a74c407f
         },
         {
             "type": "java",
             "name": "CodeLens (Launch) - try_string",
             "request": "launch",
+<<<<<<< HEAD
             "mainClass": "try_string",
             "projectName": "java_72e8cc1b"
+=======
+            "mainClass": "try_string"
+>>>>>>> 23fbb6f47b4e55846863cdfd3d853181a74c407f
         }
     ]
 }
