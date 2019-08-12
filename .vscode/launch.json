@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_03hashmap",
+            "request": "launch",
+            "mainClass": "try_03hashmap",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_arraylist",
+            "request": "launch",
+            "mainClass": "try_arraylist",
+            "projectName": "java_72e8cc1b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_string",
+            "request": "launch",
+            "mainClass": "try_string",
+            "projectName": "java_72e8cc1b"
+        }
+    ]
+}
