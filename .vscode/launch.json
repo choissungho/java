@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_hashmap",
+            "request": "launch",
+            "mainClass": "try_hashmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - try_string",
+            "request": "launch",
+            "mainClass": "try_string"
+        }
+    ]
+}
